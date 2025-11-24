@@ -2,17 +2,16 @@
 
 ### 🧠 AI & ML Engineer | 💻 Full Stack Developer | 🏥 Healthcare Innovator
 
-[cite_start]I am a final-year **B.Tech CSE (AI & ML)** student at **PES University** [cite: 8, 9] with a passion for solving critical problems at the intersection of technology, healthcare, and business.
+[cite_start]I am a final-year **B.Tech CSE (AI & ML)** student at **PES University**  with a passion for solving critical problems at the intersection of technology, healthcare, and business.
 
 ---
 
 ## 📖 About Me
 
-I'm an **AI engineer** and **Full Stack Developer** with a passion for **transforming healthcare through technology**. [cite_start]Currently pursuing my B.Tech in CSE (AI & ML), I've dedicated my academic journey to developing AI solutions that make real-world medical impact—from detecting lung diseases to identifying skin conditions[cite: 15, 43].
+I'm an **AI engineer** and **Full Stack Developer** with a passion for **transforming healthcare through technology**. Currently pursuing my B.Tech in CSE (AI & ML), I've dedicated my academic journey to developing AI solutions that make real-world medical impact—from detecting lung diseases to identifying skin conditions.
 
-I don't just build models; I build applications. With strong proficiency in **React, Node.js, and SQL**, I develop full-stack platforms that bring AI solutions to life for end-users. [cite_start]My work on a comprehensive **Hospital Management System** demonstrates my ability to handle end-to-end development, from database design to user interface[cite: 39, 40, 42].
+I don't just build models; I build applications. With strong proficiency in **React, Node.js, and SQL**, I develop full-stack platforms that bring AI solutions to life for end-users. My work on a comprehensive **Hospital Management System** demonstrates my ability to handle end-to-end development, from database design to user interface.
 
-Beyond technical expertise, I'm deeply interested in **management and entrepreneurship**. [cite_start]As Head of **AURA**, I've led workshops and hackathons, developing skills in team coordination and resource planning[cite: 59, 61]. [cite_start]To complement my technical skills, I'm pursuing **Finance studies at the London School of Economics** this summer[cite: 10, 11], aiming to build scalable ventures that create lasting impact.
 
 ---
 
