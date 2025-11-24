@@ -2,7 +2,7 @@
 
 ### 🧠 AI & ML Engineer | 💻 Full Stack Developer | 🏥 Healthcare Innovator
 
-[cite_start]I am a final-year **B.Tech CSE (AI & ML)** student at **PES University**  with a passion for solving critical problems at the intersection of technology, healthcare, and business.
+I am a final-year **B.Tech CSE (AI & ML)** student at **PES University**  with a passion for solving critical problems at the intersection of technology, healthcare, and business.
 
 ---
 
@@ -64,6 +64,6 @@ I don't just build models; I build applications. With strong proficiency in **Re
 
 ## 📫 Connect with Me
 
-* [cite_start]📧 **Email:** channabasappa164@gmail.com [cite: 2]
-* 🔗 **LinkedIn:** [Channabasappa V Patil](<YOUR_LINKEDIN_URL_HERE>)
+* [cite_start]📧 **Email:** channabasappa164@gmail.com 
+* 🔗 **LinkedIn:** [Channabasappa V Patil]([<YOUR_LINKEDIN_URL_HERE>](https://www.linkedin.com/in/channabasappa-v-patil-838129273/))
 * 📂 **Portfolio:** [showcase-my-best-41.lovable.app](https://showcase-my-best-41.lovable.app)
