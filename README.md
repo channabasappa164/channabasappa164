@@ -65,5 +65,5 @@ I don't just build models; I build applications. With strong proficiency in **Re
 ## 📫 Connect with Me
 
 * [cite_start]📧 **Email:** channabasappa164@gmail.com 
-* 🔗 **LinkedIn:** [Channabasappa V Patil]([<YOUR_LINKEDIN_URL_HERE>](https://www.linkedin.com/in/channabasappa-v-patil-838129273/))
+* 🔗 **LinkedIn:** [Channabasappa V Patil]([https://www.linkedin.com/in/channabasappa-v-patil-838129273/])
 * 📂 **Portfolio:** [showcase-my-best-41.lovable.app](https://showcase-my-best-41.lovable.app)
